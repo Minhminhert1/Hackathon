@@ -26,6 +26,9 @@ window.onerror = function(msg, url, line) {
 <script>
 console.log("SEEN_IDS_LENGTH:", typeof seenMessageIds !== 'undefined' ? seenMessageIds.size : 'undefined');
 console.log("PENDING_QUEUE:", typeof pendingQueue !== 'undefined' ? pendingQueue.length : 'undefined');
+setTimeout(() => {
+  window.close();
+}, 1500);
 </script>
 </body>
 </html>"""
@@ -42,8 +45,14 @@ cmd = [
     DEBUG_HTML
 ]
 
-proc = subprocess.run(cmd, capture_output=True, text=True, timeout=5)
+try:
+    stderr = subprocess.run(cmd, capture_output=True, text=True, timeout=15).stderr
+except subprocess.TimeoutExpired as exc:
+    # The browser outlived the fixture; report what it managed to print.
+    print("WARNING: Chrome did not exit within 15s; showing partial output.")
+    stderr = exc.stderr or ""
+
 print("STDERR:")
-for line in proc.stderr.splitlines():
+for line in stderr.splitlines():
     if "CONSOLE" in line or "JS_ERROR" in line:
         print(line)

@@ -30,7 +30,7 @@ python scratch\run_debug.py
 
 Every script in `scratch/` resolves repo paths relative to its own location, and the Chrome-driven ones locate the browser through `scratch/_chrome.py` rather than a hardcoded path, so they run from a fresh clone on any platform. `find_chrome()` checks `CHROME_BIN` first, then the usual Windows/macOS install locations, then `google-chrome`/`chromium` on `PATH`, and exits with instructions if it finds none — set `CHROME_BIN` to point at a specific browser.
 
-`run_test_switch.py` and `run_test_multiroom.py` run clean. Two others are broken for reasons unrelated to browser discovery, and were never repaired: `run_debug.py` passes `timeout=5` to `subprocess.run()` but its fixture never closes the browser, so it always raises `TimeoutExpired`; `check_syntax.py` passes no timeout at all and hangs until killed.
+All of them run clean. Every generated fixture ends with `setTimeout(() => window.close(), 1500)` so the browser exits on its own, and every runner caps `subprocess.run()` at 15s and prints Chrome's partial output on timeout instead of raising.
 
 ## Architecture / data flow
 

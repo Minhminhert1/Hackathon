@@ -18,6 +18,9 @@ window.onerror = function(msg, url, line) {
 <script>
 console.log("SEEN_IDS_LENGTH:", typeof seenMessageIds !== 'undefined' ? seenMessageIds.size : 'undefined');
 console.log("PENDING_QUEUE:", typeof pendingQueue !== 'undefined' ? pendingQueue.length : 'undefined');
+setTimeout(() => {
+  window.close();
+}, 1500);
 </script>
 </body>
 </html>
