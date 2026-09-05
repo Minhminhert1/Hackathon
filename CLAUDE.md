@@ -8,7 +8,7 @@ A two-part FX chat-scraping tool built for the MSB AI Hackathon 2026 (Treasury d
 
 The downstream parser described in `tom_tat_du_an_FXVN.md` — `bank_resolver.py`, `bank_mapping.json`, `classify.py`, `deal_matcher.py`, `run_parser.py` — now lives in `fxvn_parser/` (see Architecture below). `fxvn_dashboard.html` at the repo root is a self-contained, standalone dashboard: its quote cards/charts/trader-table still run their own simplified JS-side classifier over a raw `.jsonl` upload, but it can now also load `fxvn_parser/deals.json` directly (a separate file input) to show the parser's actual matched deals in a dedicated table — see Architecture below.
 
-`FX_COLLECTOR_CODEBASE.md` is an auto-generated dump of the source (via `scratch/bundle_code.py`) meant for pasting into a review tool — it is not documentation to maintain by hand.
+`FX_COLLECTOR_CODEBASE.md` is an auto-generated dump of the source (via `scratch/bundle_code.py`) meant for pasting into a review tool — it is not documentation to maintain by hand. `.gitattributes` pins it and the other generated files (`fxvn_parser/quotes.json`, `fxvn_parser/deals.json`, the `scratch/` HTML fixtures) to LF in the repository, so regenerating them on Linux or macOS produces no diff.
 
 ## Commands
 
@@ -28,7 +28,9 @@ python scratch\run_test_multiroom.py
 python scratch\run_debug.py
 ```
 
-Every script in `scratch/` resolves paths to files inside the repo relative to its own location, so they all run from a fresh clone anywhere. The Chrome-driven ones above plus `check_syntax.py` still hardcode the Chrome binary path (`C:\Program Files\Google\Chrome\Application\chrome.exe`), so those are Windows-only as written; `bundle_code.py` and `run_test_parser.py` need no browser and run anywhere.
+Every script in `scratch/` resolves repo paths relative to its own location, and the Chrome-driven ones locate the browser through `scratch/_chrome.py` rather than a hardcoded path, so they run from a fresh clone on any platform. `find_chrome()` checks `CHROME_BIN` first, then the usual Windows/macOS install locations, then `google-chrome`/`chromium` on `PATH`, and exits with instructions if it finds none — set `CHROME_BIN` to point at a specific browser.
+
+`run_test_switch.py` and `run_test_multiroom.py` run clean. Two others are broken for reasons unrelated to browser discovery, and were never repaired: `run_debug.py` passes `timeout=5` to `subprocess.run()` but its fixture never closes the browser, so it always raises `TimeoutExpired`; `check_syntax.py` passes no timeout at all and hangs until killed.
 
 ## Architecture / data flow
 
