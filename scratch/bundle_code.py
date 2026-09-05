@@ -1,6 +1,6 @@
 import os
 
-project_dir = r'C:\Users\HOANG MINH\Desktop\fx-collector'
+project_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 output_file = os.path.join(project_dir, 'FX_COLLECTOR_CODEBASE.md')
 
 files_to_bundle = [
