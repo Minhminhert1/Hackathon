@@ -1,0 +1,18 @@
+# Generated artifacts: store LF so regenerating them on any platform is a
+# no-op instead of a whole-file diff. These are rewritten by
+# scratch/bundle_code.py, fxvn_parser/run_parser.py, scratch/run_debug.py
+# and scratch/check_syntax.py respectively.
+FX_COLLECTOR_CODEBASE.md  text eol=lf
+fxvn_parser/deals.json    text eol=lf
+fxvn_parser/quotes.json   text eol=lf
+scratch/debug_test.html   text eol=lf
+scratch/test_page.html    text eol=lf
+
+# Python sources are LF everywhere.
+*.py text eol=lf
+
+# Windows batch files need CRLF to run reliably on every Windows version.
+*.bat text eol=crlf
+
+# Never convert binary content.
+*.png binary

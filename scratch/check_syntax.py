@@ -1,6 +1,8 @@
 ﻿import subprocess
 import os
 
+from _chrome import find_chrome
+
 html = """<!DOCTYPE html>
 <html>
 <head></head>
@@ -16,7 +18,7 @@ html_path = os.path.join(scratch_dir, "test_page.html")
 with open(html_path, "w", encoding="utf-8") as f:
     f.write(html)
 
-chrome = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
+chrome = find_chrome()
 proc = subprocess.run([
     chrome,
     "--headless=new",

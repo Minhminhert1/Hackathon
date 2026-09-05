@@ -1,6 +1,8 @@
 ﻿import os
 import subprocess
 
+from _chrome import find_chrome
+
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEBUG_HTML = os.path.join(REPO_ROOT, "scratch", "debug_test.html")
 
@@ -32,7 +34,7 @@ with open(DEBUG_HTML, "w", encoding="utf-8") as f:
     f.write(html)
 
 cmd = [
-    r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+    find_chrome(),
     "--headless=new",
     "--enable-logging=stderr",
     "--v=1",

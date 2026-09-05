@@ -2,12 +2,14 @@ import os
 import subprocess
 import sys
 
+from _chrome import find_chrome
+
 sys.stdout.reconfigure(encoding='utf-8')
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 cmd = [
-    r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+    find_chrome(),
     "--headless=new",
     "--enable-logging=stderr",
     "--v=1",
