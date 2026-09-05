@@ -9,6 +9,11 @@ html = """<!DOCTYPE html>
 <body>
 <script src="../extension/config.js"></script>
 <script src="../extension/content.js"></script>
+<script>
+setTimeout(() => {
+  window.close();
+}, 1500);
+</script>
 </body>
 </html>"""
 
@@ -19,15 +24,23 @@ with open(html_path, "w", encoding="utf-8") as f:
     f.write(html)
 
 chrome = find_chrome()
-proc = subprocess.run([
+cmd = [
     chrome,
     "--headless=new",
     "--enable-logging=stderr",
     "--v=1",
     "--allow-file-access-from-files",
     html_path
-], capture_output=True, text=True)
+]
 
-print("Return code:", proc.returncode)
-print("STDOUT:", proc.stdout[:500])
-print("STDERR:", proc.stderr[:500])
+try:
+    proc = subprocess.run(cmd, capture_output=True, text=True, timeout=15)
+    returncode, stdout, stderr = proc.returncode, proc.stdout, proc.stderr
+except subprocess.TimeoutExpired as exc:
+    # Without this the script hangs forever when the fixture fails to close.
+    print("WARNING: Chrome did not exit within 15s; showing partial output.")
+    returncode, stdout, stderr = None, exc.stdout or "", exc.stderr or ""
+
+print("Return code:", returncode)
+print("STDOUT:", stdout[:500])
+print("STDERR:", stderr[:500])
