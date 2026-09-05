@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body style="margin:0">
+<iframe id="dash" src="../fxvn_dashboard.html" style="width:1400px;height:2400px;border:0"></iframe>
+<script>
+document.getElementById('dash').onload = function(){
+  const win = document.getElementById('dash').contentWindow;
+  win.alert = function(msg){ console.log('ALERT: ' + msg); };
+  const badJson = '{"not":"an array"}';
+  const file = new win.File([badJson], 'deals.json', {type:'application/json'});
+  const dt = new win.DataTransfer();
+  dt.items.add(file);
+  const input = win.document.getElementById('dealsIn');
+  input.files = dt.files;
+  input.dispatchEvent(new win.Event('change', {bubbles:true}));
+  setTimeout(()=>{
+    const trCount = win.document.querySelectorAll('#dealsTable tbody tr').length;
+    console.log('BAD_ROWS_RENDERED: ' + trCount);
+    console.log('BAD_SUB_TEXT: ' + win.document.getElementById('dealsSub').textContent);
+    console.log('STILL_ALIVE: ' + (win.document.getElementById('fBank') ? 'yes' : 'no'));
+    console.log('DONE_BAD');
+  }, 300);
+};
+</script>
+</body>
+</html>

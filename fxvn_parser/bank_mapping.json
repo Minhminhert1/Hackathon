@@ -1,0 +1,331 @@
+{
+ "_note": "Bảng ánh xạ ngân hàng cho parser FXVN. Mỗi bank có: code chuẩn, full (khớp data-company từ chat), aliases (mọi cách dealer gọi: tên thường/mã SWIFT/tên lóng). Khi tra: chuẩn hóa khoảng trắng, bỏ dấu, bỏ phân biệt hoa thường. Khớp alias theo TỪ nguyên vẹn, không khớp chuỗi con.",
+ "reference_price": {
+  "usdvnd_big_figure": 26200,
+  "note": "dealer gõ 2 số cuối; giá đầy đủ = 26200 + 2 số cuối. VD '83' -> 26283. Kiểm tra biên: phải nằm trong biên độ NHNN quanh tỷ giá trung tâm."
+ },
+ "banks": [
+  {
+   "code": "VCB",
+   "full": "Joint Stock Commercial Bank for Foreign Trade of Vietnam",
+   "aliases": [
+    "vietcombank",
+    "vcb",
+    "ngoai thuong",
+    "vietcom"
+   ]
+  },
+  {
+   "code": "CTG",
+   "full": "Vietnam Joint Stock Commercial Bank for Industry and Trade",
+   "aliases": [
+    "vietinbank",
+    "vietin",
+    "ctg",
+    "icb",
+    "cong thuong"
+   ]
+  },
+  {
+   "code": "BIDV",
+   "full": "Bank For Investment And Development Of Vietnam",
+   "aliases": [
+    "bidv",
+    "bid",
+    "dau tu"
+   ]
+  },
+  {
+   "code": "AGR",
+   "full": "Vietnam Bank For Agriculture And Rural Development",
+   "aliases": [
+    "agribank",
+    "agri",
+    "agr",
+    "vba",
+    "nong nghiep"
+   ]
+  },
+  {
+   "code": "TCB",
+   "full": "Vietnam Technological Commercial Joint Stock Bank",
+   "aliases": [
+    "techcombank",
+    "tcb",
+    "tech"
+   ]
+  },
+  {
+   "code": "MBB",
+   "full": "Military Commercial Joint Stock Bank",
+   "aliases": [
+    "mbbank",
+    "mb",
+    "mbb",
+    "quan doi",
+    "military"
+   ]
+  },
+  {
+   "code": "VPB",
+   "full": "Vietnam Prosperity JS Commercial Bank",
+   "aliases": [
+    "vpbank",
+    "vpb",
+    "vp",
+    "prosperity"
+   ]
+  },
+  {
+   "code": "ACB",
+   "full": "Asia Commercial Bank",
+   "aliases": [
+    "acb",
+    "a chau",
+    "asia commercial"
+   ]
+  },
+  {
+   "code": "VIB",
+   "full": "Vietnam International Commercial Joint Stock Bank",
+   "aliases": [
+    "vib",
+    "quoc te",
+    "international"
+   ]
+  },
+  {
+   "code": "TPB",
+   "full": "Tien Phong Commercial Joint Stock Bank",
+   "aliases": [
+    "tpbank",
+    "tpb",
+    "tp",
+    "tien phong"
+   ]
+  },
+  {
+   "code": "STB",
+   "full": "Saigon Thuong Tin Commercial Joint Stock Bank",
+   "aliases": [
+    "sacombank",
+    "stb",
+    "sacom",
+    "saigon thuong tin",
+    "sgtt"
+   ]
+  },
+  {
+   "code": "SHB",
+   "full": "Saigon Hanoi Commercial Joint Stock Bank",
+   "aliases": [
+    "shb",
+    "saigon hanoi",
+    "sg-hn"
+   ]
+  },
+  {
+   "code": "HDB",
+   "full": "HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
+   "aliases": [
+    "hdbank",
+    "hdb",
+    "hd bank",
+    "hcm development"
+   ]
+  },
+  {
+   "code": "OCB",
+   "full": "ORIENT COMMERCIAL JOINT STOCK BANK",
+   "aliases": [
+    "ocb",
+    "orient",
+    "phuong dong"
+   ]
+  },
+  {
+   "code": "MSB",
+   "full": "Vietnam Maritime Commercial Joint Stock Bank",
+   "aliases": [
+    "msb",
+    "msbi",
+    "maritime",
+    "hang hai"
+   ]
+  },
+  {
+   "code": "EIB",
+   "full": "Vietnam Export - Import Commercial Joint Stock Bank",
+   "aliases": [
+    "eximbank",
+    "eib",
+    "exim",
+    "export import"
+   ]
+  },
+  {
+   "code": "NAB",
+   "full": "Nam A Commercial Joint Stock Bank",
+   "aliases": [
+    "nam a bank",
+    "namabank",
+    "nab",
+    "nam a"
+   ]
+  },
+  {
+   "code": "ABB",
+   "full": "An Binh Commercial Joint Stock Bank",
+   "aliases": [
+    "abbank",
+    "abb",
+    "abbk",
+    "an binh"
+   ]
+  },
+  {
+   "code": "VAB",
+   "full": "Vietnam Asia Commercial Joint Stock Bank",
+   "aliases": [
+    "vietabank",
+    "vab",
+    "viet a",
+    "vietnam asia"
+   ]
+  },
+  {
+   "code": "VBB",
+   "full": "Vietnam Thuong Tin Commercial Joint Stock Bank",
+   "aliases": [
+    "vietbank",
+    "vbb",
+    "vietnam thuong tin",
+    "vntt",
+    "vtt"
+   ]
+  },
+  {
+   "code": "BAB",
+   "full": "North Asia Commercial Joint Stock Bank",
+   "aliases": [
+    "bacabank",
+    "bac a bank",
+    "bab",
+    "bac a",
+    "north asia"
+   ]
+  },
+  {
+   "code": "KLB",
+   "full": "Kien Long Commercial Joint Stock Bank",
+   "aliases": [
+    "kienlongbank",
+    "klb",
+    "kien long",
+    "klbv"
+   ]
+  },
+  {
+   "code": "SGB",
+   "full": "Saigon Treasure Commercial Joint Stock Bank",
+   "aliases": [
+    "saigonbank",
+    "sgb",
+    "saigon cong thuong",
+    "sgct"
+   ]
+  },
+  {
+   "code": "NCB",
+   "full": "National Citizen Commercial Joint Stock Bank",
+   "aliases": [
+    "ncb",
+    "national citizen",
+    "nvb"
+   ]
+  },
+  {
+   "code": "PVCB",
+   "full": "Fortune Vietnam Joint Stock Commercial Bank",
+   "aliases": [
+    "pvcombank",
+    "pvcb",
+    "pvc",
+    "fortune"
+   ]
+  },
+  {
+   "code": "IVB",
+   "full": "Indovina Bank Ltd",
+   "aliases": [
+    "indovina",
+    "ivb"
+   ]
+  },
+  {
+   "code": "BVB",
+   "full": "Viet Capital Commercial Joint Stock Bank",
+   "aliases": [
+    "bvbank",
+    "bvb",
+    "viet capital",
+    "ban viet"
+   ]
+  },
+  {
+   "code": "VIKKI",
+   "full": "Vikki Digital Bank Limited",
+   "aliases": [
+    "vikki",
+    "dong a",
+    "dab",
+    "vikki digital",
+    "da"
+   ]
+  },
+  {
+   "code": "FUBON",
+   "full": "Taipei Fubon Commercial Bank-HCMC Branch",
+   "aliases": [
+    "fubon",
+    "taipei fubon"
+   ]
+  },
+  {
+   "code": "PGBank",
+   "full": "Prosperity and Growth Commercial Joint Stock Bank",
+   "aliases": [
+    "pgbank",
+    "pgbv",
+    "pgb"
+   ]
+  },
+  {
+   "code": "SEAB",
+   "full": "SouthEast Asia Commercial Joint Stock Bank",
+   "aliases": [
+    "seabank",
+    "sea",
+    "seab",
+    "ssb"
+   ]
+  },
+  {
+   "code": "BVBaoViet",
+   "full": "Bao Viet Joint Stock Commercial Bank",
+   "aliases": [
+    "baoviet",
+    "bvb baoviet",
+    "baovietbank"
+   ]
+  },
+  {
+   "code": "MBV",
+   "full": "Modern Bank of Vietnam Limited",
+   "aliases": [
+    "mbv",
+    "modern"
+   ]
+  }
+ ]
+}

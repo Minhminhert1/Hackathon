@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "FX Chat Collector",
+  "version": "1.0.2",
+  "description": "Thu thap tin nhan tu LSEG Refinitiv Workspace Messenger",
+  "permissions": [],
+  "host_permissions": [
+    "https://*.refinitiv.com/*",
+    "https://*.lseg.com/*",
+    "http://localhost:8000/*",
+    "http://127.0.0.1:8000/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.refinitiv.com/*",
+        "https://*.lseg.com/*"
+      ],
+      "js": [
+        "config.js",
+        "content.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true,
+      "world": "MAIN"
+    }
+  ]
+}

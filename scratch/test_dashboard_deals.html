@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body style="margin:0">
+<iframe id="dash" src="../fxvn_dashboard.html" style="width:1400px;height:11500px;border:0"></iframe>
+<script>
+document.getElementById('dash').onload = function(){
+  const win = document.getElementById('dash').contentWindow;
+  win.alert = function(msg){ console.log('ALERT: ' + msg); }; // avoid blocking dialog in headless
+  fetch('../fxvn_parser/deals.json').then(r=>r.text()).then(text=>{
+    const file = new win.File([text], 'deals.json', {type:'application/json'});
+    const dt = new win.DataTransfer();
+    dt.items.add(file);
+    const input = win.document.getElementById('dealsIn');
+    input.files = dt.files;
+    input.dispatchEvent(new win.Event('change', {bubbles:true}));
+    setTimeout(()=>{
+      const trCount = win.document.querySelectorAll('#dealsTable tbody tr').length;
+      console.log('DEALS_ROWS_RENDERED: ' + trCount);
+      console.log('DEALS_SUB_TEXT: ' + win.document.getElementById('dealsSub').textContent);
+      console.log('SCROLLHEIGHT: ' + win.document.body.scrollHeight);
+      console.log('DONE');
+    }, 300);
+  }).catch(e=>console.error('TEST_FAIL: ' + e.message));
+};
+</script>
+</body>
+</html>

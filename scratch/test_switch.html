@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head><title>Refinitiv Messenger Switch Room Test</title></head>
+<body>
+  <!-- Sidebar -->
+  <div class="sidebar" style="width: 250px; float: left;">
+    <div id="item-msb" class="channel-item"><span class="ChatroomName">FX Swap - MSB VBMA</span></div>
+    <div id="item-fxvn" class="channel-item selected" aria-selected="true"><span class="ChatroomName">FXVN</span></div>
+  </div>
+
+  <!-- Chat Pane -->
+  <div class="chat-pane" style="margin-left: 260px;">
+    <div class="conversation-header">
+      <span id="header-title" class="ChatroomName">FXVN</span>
+      <span id="header-part" class="participants">251 Participants</span>
+    </div>
+    <div id="conversation-container">
+      <div class="incoming-message" data-message-id="msg-fxvn-1" data-sender-name="User FXVN" data-company="Bank 1" data-timestamp="11:00:00" data-date="5/9/2026">
+        <div data-testid="parsed-raw-message">Tin tu FXVN</div>
+      </div>
+    </div>
+  </div>
+
+  <script src="../extension/config.js"></script>
+  <script src="test_fxvn_only.js"></script>
+  <script>
+    // Simulate user clicking on MSB Swap after 300ms
+    setTimeout(() => {
+      // Update sidebar
+      document.getElementById('item-fxvn').className = 'channel-item';
+      document.getElementById('item-fxvn').removeAttribute('aria-selected');
+      document.getElementById('item-msb').className = 'channel-item selected';
+      document.getElementById('item-msb').setAttribute('aria-selected', 'true');
+
+      // Update header
+      document.getElementById('header-title').textContent = 'FX Swap - MSB VBMA';
+      document.getElementById('header-part').textContent = '50 Participants';
+
+      // Insert new message in container
+      const container = document.getElementById('conversation-container');
+      const newMsg = document.createElement('div');
+      newMsg.className = 'incoming-message';
+      newMsg.setAttribute('data-message-id', 'msg-msb-1');
+      newMsg.setAttribute('data-sender-name', 'User MSB');
+      newMsg.setAttribute('data-company', 'MSB');
+      newMsg.setAttribute('data-timestamp', '11:05:00');
+      newMsg.setAttribute('data-date', '5/9/2026');
+      newMsg.innerHTML = '<div data-testid="parsed-raw-message">Tin tu MSB Swap</div>';
+      container.appendChild(newMsg);
+
+      // Trigger process
+      const messages = document.querySelectorAll(window.FX_CONFIG.SELECTORS.MESSAGE_ITEM);
+      messages.forEach(window.processMessageElement);
+    }, 300);
+
+    setTimeout(() => {
+      window.close();
+    }, 1200);
+  </script>
+</body>
+</html>

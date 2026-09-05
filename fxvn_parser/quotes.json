@@ -1,0 +1,3939 @@
+[
+ {
+  "order": 37,
+  "trader": "Minh Hieu Nguyen",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   59,
+   45
+  ],
+  "volume": null,
+  "text": "Buzzed the chat09:59:45"
+ },
+ {
+  "order": 107,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "bid",
+  "prices": [
+   98
+  ],
+  "volume": null,
+  "text": "bid 98"
+ },
+ {
+  "order": 120,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   98
+  ],
+  "volume": null,
+  "text": "bid 98"
+ },
+ {
+  "order": 146,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "bid",
+  "prices": [
+   98
+  ],
+  "volume": null,
+  "text": "bid 98"
+ },
+ {
+  "order": 292,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   99
+  ],
+  "volume": null,
+  "text": "bid 99 nè anh Chương"
+ },
+ {
+  "order": 295,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   99
+  ],
+  "volume": null,
+  "text": "sell 99"
+ },
+ {
+  "order": 300,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   99
+  ],
+  "volume": null,
+  "text": "offer 99"
+ },
+ {
+  "order": 303,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   93,
+   98
+  ],
+  "volume": null,
+  "text": "93 98"
+ },
+ {
+  "order": 304,
+  "trader": "Nhan Tran Duc Van",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   90,
+   95
+  ],
+  "volume": null,
+  "text": "90 95"
+ },
+ {
+  "order": 306,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "bid",
+  "prices": [
+   85
+  ],
+  "volume": null,
+  "text": "bid 85"
+ },
+ {
+  "order": 311,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   88,
+   92
+  ],
+  "volume": null,
+  "text": "88 92"
+ },
+ {
+  "order": 313,
+  "trader": "Hoang Duc Dat",
+  "bank": "TCB",
+  "side": "bid",
+  "prices": [
+   90
+  ],
+  "volume": null,
+  "text": "bid 90"
+ },
+ {
+  "order": 314,
+  "trader": "Tran Anh Huy",
+  "bank": "ACB",
+  "side": "bid",
+  "prices": [
+   90
+  ],
+  "volume": 3.0,
+  "text": "bid 90 3u"
+ },
+ {
+  "order": 315,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   90
+  ],
+  "volume": null,
+  "text": "bid 90"
+ },
+ {
+  "order": 316,
+  "trader": "Hoang Duc Dat",
+  "bank": "TCB",
+  "side": "bid",
+  "prices": [
+   92
+  ],
+  "volume": 5.0,
+  "text": "thôi buy Đức 5u 92 sống vội"
+ },
+ {
+  "order": 317,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   92,
+   95
+  ],
+  "volume": null,
+  "text": "92 95"
+ },
+ {
+  "order": 322,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "offer",
+  "prices": [
+   98
+  ],
+  "volume": null,
+  "text": "offer 98"
+ },
+ {
+  "order": 326,
+  "trader": "Tran Anh Huy",
+  "bank": "ACB",
+  "side": "bid",
+  "prices": [
+   94
+  ],
+  "volume": 3.0,
+  "text": "bid 94 nốt 3u"
+ },
+ {
+  "order": 332,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   92,
+   95
+  ],
+  "volume": null,
+  "text": "92 95"
+ },
+ {
+  "order": 337,
+  "trader": "Tu Minh Trieu",
+  "bank": "CTG",
+  "side": "two_way",
+  "prices": [
+   92,
+   95
+  ],
+  "volume": null,
+  "text": "92 95"
+ },
+ {
+  "order": 338,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   92,
+   95
+  ],
+  "volume": null,
+  "text": "92 95"
+ },
+ {
+  "order": 343,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "offer",
+  "prices": [
+   96
+  ],
+  "volume": null,
+  "text": "offer 96"
+ },
+ {
+  "order": 351,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   95,
+   97
+  ],
+  "volume": null,
+  "text": "95 97"
+ },
+ {
+  "order": 355,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   96,
+   99
+  ],
+  "volume": null,
+  "text": "96 99"
+ },
+ {
+  "order": 366,
+  "trader": "Tu Minh Trieu",
+  "bank": "CTG",
+  "side": "offer",
+  "prices": [
+   97
+  ],
+  "volume": 2.0,
+  "text": "offer 97 for 2u"
+ },
+ {
+  "order": 380,
+  "trader": "Hoang Duc Dat",
+  "bank": "TCB",
+  "side": "two_way",
+  "prices": [
+   95,
+   97
+  ],
+  "volume": null,
+  "text": "95 97"
+ },
+ {
+  "order": 381,
+  "trader": "Tran Anh Huy",
+  "bank": "ACB",
+  "side": "bid",
+  "prices": [
+   95
+  ],
+  "volume": 3.0,
+  "text": "bid 95 3u"
+ },
+ {
+  "order": 389,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   95,
+   97
+  ],
+  "volume": null,
+  "text": "95 97"
+ },
+ {
+  "order": 390,
+  "trader": "Tran Anh Huy",
+  "bank": "ACB",
+  "side": "two_way",
+  "prices": [
+   93,
+   97
+  ],
+  "volume": null,
+  "text": "93-97"
+ },
+ {
+  "order": 392,
+  "trader": "Tuan Dat Le",
+  "bank": "?",
+  "side": "bid",
+  "prices": [
+   86
+  ],
+  "volume": null,
+  "text": "bid 86"
+ },
+ {
+  "order": 393,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   90,
+   93
+  ],
+  "volume": null,
+  "text": "90/93"
+ },
+ {
+  "order": 397,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "bid",
+  "prices": [
+   94
+  ],
+  "volume": null,
+  "text": "bid 94"
+ },
+ {
+  "order": 399,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "offer",
+  "prices": [
+   97
+  ],
+  "volume": null,
+  "text": "offer 97"
+ },
+ {
+  "order": 402,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   92,
+   97
+  ],
+  "volume": null,
+  "text": "92/97"
+ },
+ {
+  "order": 403,
+  "trader": "Minh Quang Ta",
+  "bank": "MSB",
+  "side": "offer",
+  "prices": [
+   96
+  ],
+  "volume": null,
+  "text": "offer 96"
+ },
+ {
+  "order": 404,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "bid",
+  "prices": [
+   96
+  ],
+  "volume": null,
+  "text": "buy 96"
+ },
+ {
+  "order": 405,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   94,
+   96
+  ],
+  "volume": null,
+  "text": "94 96"
+ },
+ {
+  "order": 411,
+  "trader": "Truong Pham Xuan",
+  "bank": "?",
+  "side": "offer",
+  "prices": [
+   97
+  ],
+  "volume": null,
+  "text": "offer 97"
+ },
+ {
+  "order": 426,
+  "trader": "Hung Nguyen Tien",
+  "bank": "CTG",
+  "side": "offer",
+  "prices": [
+   97
+  ],
+  "volume": null,
+  "text": "offer 97 vài u cuối"
+ },
+ {
+  "order": 428,
+  "trader": "Nguyen Thi Thu Thuy",
+  "bank": "CTG",
+  "side": "two_way",
+  "prices": [
+   94,
+   96
+  ],
+  "volume": null,
+  "text": "94/96"
+ },
+ {
+  "order": 429,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "offer",
+  "prices": [
+   96
+  ],
+  "volume": null,
+  "text": "offer 96"
+ },
+ {
+  "order": 434,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   96,
+   99
+  ],
+  "volume": null,
+  "text": "96 99"
+ },
+ {
+  "order": 436,
+  "trader": "Hoang Duc Dat",
+  "bank": "TCB",
+  "side": "bid",
+  "prices": [
+   99
+  ],
+  "volume": null,
+  "text": "buy 99"
+ },
+ {
+  "order": 439,
+  "trader": "Hoang Duc Dat",
+  "bank": "TCB",
+  "side": "bid",
+  "prices": [
+   99
+  ],
+  "volume": 10.0,
+  "text": "bid 99 10u"
+ },
+ {
+  "order": 440,
+  "trader": "Tran Anh Huy",
+  "bank": "ACB",
+  "side": "bid",
+  "prices": [
+   99
+  ],
+  "volume": null,
+  "text": "bid 99 for 5"
+ },
+ {
+  "order": 458,
+  "trader": "Tran Anh Huy",
+  "bank": "ACB",
+  "side": "bid",
+  "prices": [
+   96
+  ],
+  "volume": 3.0,
+  "text": "bid 96 3u"
+ },
+ {
+  "order": 460,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   96,
+   99
+  ],
+  "volume": null,
+  "text": "96 99"
+ },
+ {
+  "order": 462,
+  "trader": "Quang Huy Nguyen",
+  "bank": "OCB",
+  "side": "offer",
+  "prices": [
+   99
+  ],
+  "volume": null,
+  "text": "offer 99"
+ },
+ {
+  "order": 472,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   96,
+   99
+  ],
+  "volume": null,
+  "text": "96 99"
+ },
+ {
+  "order": 483,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   94,
+   96
+  ],
+  "volume": null,
+  "text": "94 96"
+ },
+ {
+  "order": 500,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "bid",
+  "prices": [
+   92
+  ],
+  "volume": null,
+  "text": "bid 92"
+ },
+ {
+  "order": 501,
+  "trader": "Dang Ta Hai",
+  "bank": "VIB",
+  "side": "two_way",
+  "prices": [
+   90,
+   95
+  ],
+  "volume": null,
+  "text": "90 95"
+ },
+ {
+  "order": 502,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   92,
+   94
+  ],
+  "volume": null,
+  "text": "92 94"
+ },
+ {
+  "order": 506,
+  "trader": "Duc Nguyen Tue",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   94,
+   95
+  ],
+  "volume": null,
+  "text": "94 95"
+ },
+ {
+  "order": 512,
+  "trader": "Hung Nguyen Van",
+  "bank": "MSB",
+  "side": "two_way",
+  "prices": [
+   96,
+   99
+  ],
+  "volume": null,
+  "text": "96 99 for 3"
+ },
+ {
+  "order": 524,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "offer",
+  "prices": [
+   99
+  ],
+  "volume": null,
+  "text": "offer 99"
+ },
+ {
+  "order": 525,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   97
+  ],
+  "volume": null,
+  "text": "bid 97"
+ },
+ {
+  "order": 527,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "two_way",
+  "prices": [
+   96,
+   98
+  ],
+  "volume": null,
+  "text": "96 98"
+ },
+ {
+  "order": 531,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "two_way",
+  "prices": [
+   97,
+   99
+  ],
+  "volume": null,
+  "text": "97 99"
+ },
+ {
+  "order": 533,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   94,
+   99
+  ],
+  "volume": null,
+  "text": "94 99"
+ },
+ {
+  "order": 534,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "two_way",
+  "prices": [
+   94,
+   99
+  ],
+  "volume": null,
+  "text": "94 99"
+ },
+ {
+  "order": 535,
+  "trader": "Quang Tang Truong",
+  "bank": "AGR",
+  "side": "offer",
+  "prices": [
+   98
+  ],
+  "volume": null,
+  "text": "offer 98"
+ },
+ {
+  "order": 537,
+  "trader": "Hung Nguyen Van",
+  "bank": "MSB",
+  "side": "two_way",
+  "prices": [
+   91,
+   96
+  ],
+  "volume": null,
+  "text": "91 96"
+ },
+ {
+  "order": 545,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "two_way",
+  "prices": [
+   91,
+   94
+  ],
+  "volume": null,
+  "text": "91 94"
+ },
+ {
+  "order": 546,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "bid",
+  "prices": [
+   93
+  ],
+  "volume": null,
+  "text": "bid 93 for 3"
+ },
+ {
+  "order": 557,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "two_way",
+  "prices": [
+   92,
+   94
+  ],
+  "volume": null,
+  "text": "92 94"
+ },
+ {
+  "order": 558,
+  "trader": "Hung Nguyen Tien",
+  "bank": "CTG",
+  "side": "offer",
+  "prices": [
+   94
+  ],
+  "volume": 1.0,
+  "text": "94 offer 1u đóng sổ"
+ },
+ {
+  "order": 559,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "bid",
+  "prices": [
+   93
+  ],
+  "volume": 3.0,
+  "text": "bid 93 nốt 3u"
+ },
+ {
+  "order": 560,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "two_way",
+  "prices": [
+   93,
+   95
+  ],
+  "volume": null,
+  "text": "93 95"
+ },
+ {
+  "order": 561,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   93
+  ],
+  "volume": null,
+  "text": "bid 93"
+ },
+ {
+  "order": 563,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   94,
+   96
+  ],
+  "volume": null,
+  "text": "94 96"
+ },
+ {
+  "order": 564,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "two_way",
+  "prices": [
+   94,
+   96
+  ],
+  "volume": null,
+  "text": "94 96"
+ },
+ {
+  "order": 565,
+  "trader": "Dang Ta Hai",
+  "bank": "VIB",
+  "side": "two_way",
+  "prices": [
+   92,
+   98
+  ],
+  "volume": null,
+  "text": "92 98"
+ },
+ {
+  "order": 568,
+  "trader": "Dang Ta Hai",
+  "bank": "VIB",
+  "side": "two_way",
+  "prices": [
+   92,
+   98
+  ],
+  "volume": null,
+  "text": "92 98 :s"
+ },
+ {
+  "order": 569,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "two_way",
+  "prices": [
+   93,
+   96
+  ],
+  "volume": null,
+  "text": "93 96"
+ },
+ {
+  "order": 570,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   94,
+   96
+  ],
+  "volume": null,
+  "text": "94 96"
+ },
+ {
+  "order": 571,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   92,
+   95
+  ],
+  "volume": null,
+  "text": "92 95"
+ },
+ {
+  "order": 578,
+  "trader": "Nghia Phan Quoc",
+  "bank": "BVBaoViet",
+  "side": "offer",
+  "prices": [
+   95
+  ],
+  "volume": null,
+  "text": "offer 95"
+ },
+ {
+  "order": 602,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   88
+  ],
+  "volume": null,
+  "text": "offer 88"
+ },
+ {
+  "order": 603,
+  "trader": "Tran Anh Huy",
+  "bank": "ACB",
+  "side": "bid",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "bid 80"
+ },
+ {
+  "order": 606,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "bid 80"
+ },
+ {
+  "order": 624,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   75,
+   85
+  ],
+  "volume": null,
+  "text": "75 85"
+ },
+ {
+  "order": 629,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   85
+  ],
+  "volume": null,
+  "text": "offer 85"
+ },
+ {
+  "order": 634,
+  "trader": "Vu Minh Tan",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "bid 80"
+ },
+ {
+  "order": 639,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   84
+  ],
+  "volume": null,
+  "text": "offer 84"
+ },
+ {
+  "order": 641,
+  "trader": "Tu Minh Trieu",
+  "bank": "CTG",
+  "side": "offer",
+  "prices": [
+   85
+  ],
+  "volume": null,
+  "text": "offer 85"
+ },
+ {
+  "order": 643,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "bid 80"
+ },
+ {
+  "order": 646,
+  "trader": "Nghia Phan Quoc",
+  "bank": "BVBaoViet",
+  "side": "offer",
+  "prices": [
+   85
+  ],
+  "volume": null,
+  "text": "offer 85"
+ },
+ {
+  "order": 650,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "sell anh Tân 80"
+ },
+ {
+  "order": 653,
+  "trader": "Vu Minh Tan",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   75
+  ],
+  "volume": null,
+  "text": "bid 75"
+ },
+ {
+  "order": 655,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   75
+  ],
+  "volume": null,
+  "text": "bid 75 theo anh Tân"
+ },
+ {
+  "order": 667,
+  "trader": "Nghia Phan Quoc",
+  "bank": "BVBaoViet",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "offer 80"
+ },
+ {
+  "order": 668,
+  "trader": "Vu Minh Tan",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   75
+  ],
+  "volume": null,
+  "text": "bid 75"
+ },
+ {
+  "order": 669,
+  "trader": "Tran Anh Huy",
+  "bank": "ACB",
+  "side": "bid",
+  "prices": [
+   76
+  ],
+  "volume": 2.0,
+  "text": "bid 76 2u"
+ },
+ {
+  "order": 677,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "offer 80"
+ },
+ {
+  "order": 678,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   74
+  ],
+  "volume": null,
+  "text": "bid 74 phía sau anh Chương"
+ },
+ {
+  "order": 704,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   80,
+   85
+  ],
+  "volume": null,
+  "text": "80/85"
+ },
+ {
+  "order": 705,
+  "trader": "Tran Anh Huy",
+  "bank": "ACB",
+  "side": "bid",
+  "prices": [
+   78
+  ],
+  "volume": null,
+  "text": "bid 78"
+ },
+ {
+  "order": 758,
+  "trader": "Nghia Phan Quoc",
+  "bank": "BVBaoViet",
+  "side": "offer",
+  "prices": [
+   85
+  ],
+  "volume": null,
+  "text": "offer 85"
+ },
+ {
+  "order": 780,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   90
+  ],
+  "volume": null,
+  "text": "offer 90 cho Đạt"
+ },
+ {
+  "order": 781,
+  "trader": "Nghia Phan Quoc",
+  "bank": "BVBaoViet",
+  "side": "offer",
+  "prices": [
+   90
+  ],
+  "volume": null,
+  "text": "offer 90"
+ },
+ {
+  "order": 802,
+  "trader": "Nghia Phan Quoc",
+  "bank": "BVBaoViet",
+  "side": "offer",
+  "prices": [
+   95
+  ],
+  "volume": null,
+  "text": "offer 95"
+ },
+ {
+  "order": 804,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   93
+  ],
+  "volume": null,
+  "text": "offer 93"
+ },
+ {
+  "order": 805,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "offer",
+  "prices": [
+   93
+  ],
+  "volume": null,
+  "text": "offer 93"
+ },
+ {
+  "order": 806,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   85,
+   90
+  ],
+  "volume": null,
+  "text": "85 90"
+ },
+ {
+  "order": 807,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   90
+  ],
+  "volume": null,
+  "text": "offer 90"
+ },
+ {
+  "order": 808,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   84
+  ],
+  "volume": null,
+  "text": "bid 84"
+ },
+ {
+  "order": 809,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "bid",
+  "prices": [
+   84
+  ],
+  "volume": null,
+  "text": "bid 84"
+ },
+ {
+  "order": 810,
+  "trader": "Le Van Thien",
+  "bank": "SGB",
+  "side": "offer",
+  "prices": [
+   88
+  ],
+  "volume": null,
+  "text": "88 có 5."
+ },
+ {
+  "order": 815,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   85,
+   90
+  ],
+  "volume": null,
+  "text": "85 90"
+ },
+ {
+  "order": 818,
+  "trader": "Nghia Phan Quoc",
+  "bank": "BVBaoViet",
+  "side": "offer",
+  "prices": [
+   88
+  ],
+  "volume": 2.0,
+  "text": "sell a Phúc 2u 88 if suit"
+ },
+ {
+  "order": 826,
+  "trader": "Giang Trieu Thuy",
+  "bank": "MSB",
+  "side": "offer",
+  "prices": [
+   88
+  ],
+  "volume": 5.0,
+  "text": "sell Phúc 5u 88 if suit"
+ },
+ {
+  "order": 830,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   86
+  ],
+  "volume": null,
+  "text": "bid 86 đây"
+ },
+ {
+  "order": 831,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "bid",
+  "prices": [
+   86
+  ],
+  "volume": 3.0,
+  "text": "bid 86 3u"
+ },
+ {
+  "order": 833,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   86
+  ],
+  "volume": null,
+  "text": "bid 86"
+ },
+ {
+  "order": 840,
+  "trader": "Giang Trieu Thuy",
+  "bank": "MSB",
+  "side": "two_way",
+  "prices": [
+   86,
+   90
+  ],
+  "volume": null,
+  "text": "86 90"
+ },
+ {
+  "order": 843,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   90
+  ],
+  "volume": null,
+  "text": "offer 90"
+ },
+ {
+  "order": 881,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "two_way",
+  "prices": [
+   86,
+   89
+  ],
+  "volume": null,
+  "text": "86 89"
+ },
+ {
+  "order": 887,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "bid",
+  "prices": [
+   87
+  ],
+  "volume": 3.0,
+  "text": "bid 87 3u"
+ },
+ {
+  "order": 889,
+  "trader": "Nguyet Anh Phan",
+  "bank": "FUBON",
+  "side": "offer",
+  "prices": [
+   88
+  ],
+  "volume": 1.0,
+  "text": "offer 88 1u cuối"
+ },
+ {
+  "order": 903,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   87
+  ],
+  "volume": null,
+  "text": "bid 87"
+ },
+ {
+  "order": 905,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   87,
+   89
+  ],
+  "volume": null,
+  "text": "87/89"
+ },
+ {
+  "order": 909,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   89
+  ],
+  "volume": null,
+  "text": "buy 89"
+ },
+ {
+  "order": 918,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "bid",
+  "prices": [
+   89
+  ],
+  "volume": null,
+  "text": "buy taipei 89"
+ },
+ {
+  "order": 931,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   89,
+   92
+  ],
+  "volume": null,
+  "text": "89/92"
+ },
+ {
+  "order": 932,
+  "trader": "Hung Pham Tuan",
+  "bank": "SHB",
+  "side": "offer",
+  "prices": [
+   91
+  ],
+  "volume": null,
+  "text": "91 offer"
+ },
+ {
+  "order": 939,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   91,
+   93
+  ],
+  "volume": null,
+  "text": "91/93"
+ },
+ {
+  "order": 940,
+  "trader": "Giang Trieu Thuy",
+  "bank": "MSB",
+  "side": "offer",
+  "prices": [
+   92
+  ],
+  "volume": null,
+  "text": "offer 92"
+ },
+ {
+  "order": 958,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   93
+  ],
+  "volume": null,
+  "text": "offer 93"
+ },
+ {
+  "order": 959,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   90,
+   92
+  ],
+  "volume": null,
+  "text": "90/92"
+ },
+ {
+  "order": 970,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "two_way",
+  "prices": [
+   89,
+   92
+  ],
+  "volume": null,
+  "text": "89 92"
+ },
+ {
+  "order": 979,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "two_way",
+  "prices": [
+   88,
+   91
+  ],
+  "volume": null,
+  "text": "88 91"
+ },
+ {
+  "order": 984,
+  "trader": "Nhan Tran Duc Van",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   90,
+   92
+  ],
+  "volume": null,
+  "text": "90 92"
+ },
+ {
+  "order": 985,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "two_way",
+  "prices": [
+   90,
+   92
+  ],
+  "volume": null,
+  "text": "90 92"
+ },
+ {
+  "order": 986,
+  "trader": "Giang Trieu Thuy",
+  "bank": "MSB",
+  "side": "two_way",
+  "prices": [
+   90,
+   92
+  ],
+  "volume": null,
+  "text": "90 92"
+ },
+ {
+  "order": 987,
+  "trader": "Tu Minh Trieu",
+  "bank": "CTG",
+  "side": "two_way",
+  "prices": [
+   90,
+   92
+  ],
+  "volume": null,
+  "text": "90 92"
+ },
+ {
+  "order": 988,
+  "trader": "Quang Tang Truong",
+  "bank": "AGR",
+  "side": "offer",
+  "prices": [
+   91
+  ],
+  "volume": null,
+  "text": "offer 91"
+ },
+ {
+  "order": 989,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "bid",
+  "prices": [
+   90
+  ],
+  "volume": 2.0,
+  "text": "bid 90 2u"
+ },
+ {
+  "order": 1002,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "two_way",
+  "prices": [
+   89,
+   91
+  ],
+  "volume": null,
+  "text": "89 91"
+ },
+ {
+  "order": 1046,
+  "trader": "Quang Tang Truong",
+  "bank": "AGR",
+  "side": "offer",
+  "prices": [
+   93
+  ],
+  "volume": null,
+  "text": "offer 93"
+ },
+ {
+  "order": 1047,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "two_way",
+  "prices": [
+   90,
+   92
+  ],
+  "volume": null,
+  "text": "90/92"
+ },
+ {
+  "order": 1049,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   91,
+   92
+  ],
+  "volume": null,
+  "text": "91 92"
+ },
+ {
+  "order": 1050,
+  "trader": "Giang Dang Duc",
+  "bank": "?",
+  "side": "bid",
+  "prices": [
+   92
+  ],
+  "volume": 3.0,
+  "text": "buy 92 3u each ạ"
+ },
+ {
+  "order": 1053,
+  "trader": "Quang Tang Truong",
+  "bank": "AGR",
+  "side": "offer",
+  "prices": [
+   92
+  ],
+  "volume": 2.0,
+  "text": "sell Giang 2u 92"
+ },
+ {
+  "order": 1054,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   91,
+   92
+  ],
+  "volume": null,
+  "text": "91 92"
+ },
+ {
+  "order": 1057,
+  "trader": "Giang Dang Duc",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   90,
+   93
+  ],
+  "volume": null,
+  "text": "90 93"
+ },
+ {
+  "order": 1058,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "offer",
+  "prices": [
+   93
+  ],
+  "volume": null,
+  "text": "offer 93"
+ },
+ {
+  "order": 1059,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "two_way",
+  "prices": [
+   90,
+   93
+  ],
+  "volume": null,
+  "text": "90 93"
+ },
+ {
+  "order": 1061,
+  "trader": "Tu Minh Trieu",
+  "bank": "CTG",
+  "side": "offer",
+  "prices": [
+   92
+  ],
+  "volume": null,
+  "text": "offer 92"
+ },
+ {
+  "order": 1063,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   91,
+   92
+  ],
+  "volume": null,
+  "text": "91 92"
+ },
+ {
+  "order": 1064,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   90,
+   91
+  ],
+  "volume": null,
+  "text": "90 91"
+ },
+ {
+  "order": 1068,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   89,
+   90
+  ],
+  "volume": null,
+  "text": "89 90"
+ },
+ {
+  "order": 1072,
+  "trader": "Giang Dang Duc",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   88,
+   91
+  ],
+  "volume": null,
+  "text": "88 91"
+ },
+ {
+  "order": 1073,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   89,
+   90
+  ],
+  "volume": null,
+  "text": "89 90"
+ },
+ {
+  "order": 1075,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   90
+  ],
+  "volume": null,
+  "text": "offer 90"
+ },
+ {
+  "order": 1077,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   88,
+   90
+  ],
+  "volume": null,
+  "text": "88 90"
+ },
+ {
+  "order": 1079,
+  "trader": "Le Van Thien",
+  "bank": "SGB",
+  "side": "offer",
+  "prices": [
+   89
+  ],
+  "volume": 5.0,
+  "text": "89 có 5u."
+ },
+ {
+  "order": 1080,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "two_way",
+  "prices": [
+   88,
+   90
+  ],
+  "volume": null,
+  "text": "88 90"
+ },
+ {
+  "order": 1081,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   88,
+   90
+  ],
+  "volume": null,
+  "text": "88 90"
+ },
+ {
+  "order": 1082,
+  "trader": "Tu Minh Trieu",
+  "bank": "CTG",
+  "side": "offer",
+  "prices": [
+   89
+  ],
+  "volume": null,
+  "text": "offer 89"
+ },
+ {
+  "order": 1084,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   86
+  ],
+  "volume": 3.0,
+  "text": "lại bid 86 đúng 3u"
+ },
+ {
+  "order": 1086,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "bid",
+  "prices": [
+   87
+  ],
+  "volume": 3.0,
+  "text": "bid 87 3u"
+ },
+ {
+  "order": 1087,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "two_way",
+  "prices": [
+   87,
+   89
+  ],
+  "volume": null,
+  "text": "87/89"
+ },
+ {
+  "order": 1091,
+  "trader": "Truong Pham Xuan",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   86,
+   88
+  ],
+  "volume": null,
+  "text": "86 88"
+ },
+ {
+  "order": 1092,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   86
+  ],
+  "volume": null,
+  "text": "bid 86"
+ },
+ {
+  "order": 1093,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   86
+  ],
+  "volume": null,
+  "text": "bid 86"
+ },
+ {
+  "order": 1094,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   88
+  ],
+  "volume": null,
+  "text": "offer 88"
+ },
+ {
+  "order": 1095,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   86,
+   88
+  ],
+  "volume": null,
+  "text": "86 88"
+ },
+ {
+  "order": 1096,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   88
+  ],
+  "volume": null,
+  "text": "offer 88"
+ },
+ {
+  "order": 1097,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   86
+  ],
+  "volume": null,
+  "text": "bid 86 nè anh T hái"
+ },
+ {
+  "order": 1098,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "offer",
+  "prices": [
+   68
+  ],
+  "volume": null,
+  "text": "nhanh tí em còn bán 68 cho"
+ },
+ {
+  "order": 1099,
+  "trader": "Truong Pham Xuan",
+  "bank": "?",
+  "side": "offer",
+  "prices": [
+   86
+  ],
+  "volume": null,
+  "text": "sell 86"
+ },
+ {
+  "order": 1104,
+  "trader": "Tu Minh Trieu",
+  "bank": "CTG",
+  "side": "offer",
+  "prices": [
+   86
+  ],
+  "volume": null,
+  "text": "offer 86"
+ },
+ {
+  "order": 1105,
+  "trader": "Giang Dang Duc",
+  "bank": "?",
+  "side": "bid",
+  "prices": [
+   84
+  ],
+  "volume": null,
+  "text": "bid 84"
+ },
+ {
+  "order": 1107,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "two_way",
+  "prices": [
+   84,
+   87
+  ],
+  "volume": null,
+  "text": "84/87"
+ },
+ {
+  "order": 1108,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   85
+  ],
+  "volume": null,
+  "text": "offer 85"
+ },
+ {
+  "order": 1112,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   83,
+   86
+  ],
+  "volume": null,
+  "text": "83/86"
+ },
+ {
+  "order": 1117,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   85
+  ],
+  "volume": null,
+  "text": "offer 85"
+ },
+ {
+  "order": 1118,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   83,
+   86
+  ],
+  "volume": null,
+  "text": "83/86 for 3"
+ },
+ {
+  "order": 1119,
+  "trader": "Giang Dang Duc",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   81,
+   84
+  ],
+  "volume": null,
+  "text": "81 84"
+ },
+ {
+  "order": 1129,
+  "trader": "Quang Huy Nguyen",
+  "bank": "OCB",
+  "side": "offer",
+  "prices": [
+   85
+  ],
+  "volume": null,
+  "text": "offer 85"
+ },
+ {
+  "order": 1135,
+  "trader": "Nguyet Anh Phan",
+  "bank": "FUBON",
+  "side": "offer",
+  "prices": [
+   85
+  ],
+  "volume": null,
+  "text": "offer 85"
+ },
+ {
+  "order": 1137,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "bid",
+  "prices": [
+   83
+  ],
+  "volume": 4.0,
+  "text": "bid 83 nốt 4u"
+ },
+ {
+  "order": 1138,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   83
+  ],
+  "volume": null,
+  "text": "bid 83"
+ },
+ {
+  "order": 1140,
+  "trader": "Giang Dang Duc",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   83,
+   85
+  ],
+  "volume": null,
+  "text": "83 85"
+ },
+ {
+  "order": 1141,
+  "trader": "Nguyet Anh Phan",
+  "bank": "FUBON",
+  "side": "offer",
+  "prices": [
+   84
+  ],
+  "volume": null,
+  "text": "offer 84 vậy"
+ },
+ {
+  "order": 1142,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   82
+  ],
+  "volume": null,
+  "text": "bid 82 chờ giá"
+ },
+ {
+  "order": 1143,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   83
+  ],
+  "volume": null,
+  "text": "bid 83 nè bạn iu"
+ },
+ {
+  "order": 1151,
+  "trader": "Hung Nguyen Van",
+  "bank": "MSB",
+  "side": "two_way",
+  "prices": [
+   83,
+   86
+  ],
+  "volume": null,
+  "text": "83 86 for 2"
+ },
+ {
+  "order": 1152,
+  "trader": "Nguyet Anh Phan",
+  "bank": "FUBON",
+  "side": "offer",
+  "prices": [
+   84
+  ],
+  "volume": 2.0,
+  "text": "offer 84 2u"
+ },
+ {
+  "order": 1154,
+  "trader": "Hung Nguyen Van",
+  "bank": "MSB",
+  "side": "two_way",
+  "prices": [
+   82,
+   85
+  ],
+  "volume": null,
+  "text": "82 85"
+ },
+ {
+  "order": 1155,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "bid",
+  "prices": [
+   83
+  ],
+  "volume": 3.0,
+  "text": "bid 83 3u"
+ },
+ {
+  "order": 1159,
+  "trader": "Giang Dang Duc",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   81,
+   84
+  ],
+  "volume": null,
+  "text": "81 84"
+ },
+ {
+  "order": 1160,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   84
+  ],
+  "volume": null,
+  "text": "offer 84"
+ },
+ {
+  "order": 1161,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "offer",
+  "prices": [
+   83
+  ],
+  "volume": null,
+  "text": "offer 83"
+ },
+ {
+  "order": 1162,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   82
+  ],
+  "volume": null,
+  "text": "bid 82"
+ },
+ {
+  "order": 1163,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   82
+  ],
+  "volume": null,
+  "text": "bid 82"
+ },
+ {
+  "order": 1165,
+  "trader": "Hung Pham Tuan",
+  "bank": "SHB",
+  "side": "offer",
+  "prices": [
+   86
+  ],
+  "volume": null,
+  "text": "offer 86"
+ },
+ {
+  "order": 1166,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "two_way",
+  "prices": [
+   82,
+   86
+  ],
+  "volume": null,
+  "text": "82/86"
+ },
+ {
+  "order": 1167,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   86
+  ],
+  "volume": null,
+  "text": "offer 86"
+ },
+ {
+  "order": 1183,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "bid",
+  "prices": [
+   83
+  ],
+  "volume": null,
+  "text": "bid 83"
+ },
+ {
+  "order": 1189,
+  "trader": "Le Van Thien",
+  "bank": "SGB",
+  "side": "offer",
+  "prices": [
+   83
+  ],
+  "volume": 5.0,
+  "text": "83 có 5u."
+ },
+ {
+  "order": 1199,
+  "trader": "Quang Tang Truong",
+  "bank": "AGR",
+  "side": "offer",
+  "prices": [
+   83
+  ],
+  "volume": 3.0,
+  "text": "sell TA 3u 83"
+ },
+ {
+  "order": 1205,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   82
+  ],
+  "volume": null,
+  "text": "bid 82"
+ },
+ {
+  "order": 1209,
+  "trader": "Le Van Thien",
+  "bank": "SGB",
+  "side": "offer",
+  "prices": [
+   83
+  ],
+  "volume": 5.0,
+  "text": "Offer 83 5u cuối."
+ },
+ {
+  "order": 1210,
+  "trader": "Tu Minh Trieu",
+  "bank": "CTG",
+  "side": "offer",
+  "prices": [
+   83
+  ],
+  "volume": null,
+  "text": "offer 83"
+ },
+ {
+  "order": 1211,
+  "trader": "Dang Ta Hai",
+  "bank": "VIB",
+  "side": "two_way",
+  "prices": [
+   80,
+   83
+  ],
+  "volume": null,
+  "text": "80 83"
+ },
+ {
+  "order": 1212,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   82
+  ],
+  "volume": null,
+  "text": "offer 82"
+ },
+ {
+  "order": 1213,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "offer",
+  "prices": [
+   82
+  ],
+  "volume": null,
+  "text": "offer 82"
+ },
+ {
+  "order": 1214,
+  "trader": "Le Van Thien",
+  "bank": "SGB",
+  "side": "offer",
+  "prices": [
+   81
+  ],
+  "volume": null,
+  "text": "Offer 81 luôn rồi nghỉ trưa nè."
+ },
+ {
+  "order": 1215,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   79
+  ],
+  "volume": null,
+  "text": "bid 79 nghỉ trưa"
+ },
+ {
+  "order": 1220,
+  "trader": "Thu Anh Nguyen",
+  "bank": "TPB",
+  "side": "bid",
+  "prices": [
+   79
+  ],
+  "volume": 3.0,
+  "text": "buy a 79 3u if suit"
+ },
+ {
+  "order": 1224,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "offer 80"
+ },
+ {
+  "order": 1234,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "bid",
+  "prices": [
+   80
+  ],
+  "volume": 5.0,
+  "text": "Buy bidv 5u 80"
+ },
+ {
+  "order": 1236,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": 5.0,
+  "text": "sell abbk 5u 80"
+ },
+ {
+  "order": 1242,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "bid",
+  "prices": [
+   80
+  ],
+  "volume": 2.0,
+  "text": "bid 80 2u"
+ },
+ {
+  "order": 1244,
+  "trader": "Quang Tang Truong",
+  "bank": "AGR",
+  "side": "offer",
+  "prices": [
+   82
+  ],
+  "volume": 2.0,
+  "text": "offer 82 2u"
+ },
+ {
+  "order": 1245,
+  "trader": "Thu Anh Nguyen",
+  "bank": "TPB",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": 2.0,
+  "text": "sell a Đạt 2u 80"
+ },
+ {
+  "order": 1265,
+  "trader": "Quang Tang Truong",
+  "bank": "AGR",
+  "side": "offer",
+  "prices": [
+   83
+  ],
+  "volume": null,
+  "text": "offer 83"
+ },
+ {
+  "order": 1274,
+  "trader": "Truong Pham Xuan",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   81,
+   83
+  ],
+  "volume": null,
+  "text": "81 83"
+ },
+ {
+  "order": 1277,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "bid 80"
+ },
+ {
+  "order": 1281,
+  "trader": "Hung Pham Tuan",
+  "bank": "SHB",
+  "side": "offer",
+  "prices": [
+   83
+  ],
+  "volume": 5.0,
+  "text": "83 offer 5u"
+ },
+ {
+  "order": 1289,
+  "trader": "Thu Anh Nguyen",
+  "bank": "TPB",
+  "side": "bid",
+  "prices": [
+   81
+  ],
+  "volume": null,
+  "text": "81 bid test"
+ },
+ {
+  "order": 1290,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   81,
+   84
+  ],
+  "volume": null,
+  "text": "81/84"
+ },
+ {
+  "order": 1291,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   81
+  ],
+  "volume": null,
+  "text": "bid 81"
+ },
+ {
+  "order": 1292,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "bid 80 phía sau anh Chương"
+ },
+ {
+  "order": 1293,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   84
+  ],
+  "volume": null,
+  "text": "offer 84"
+ },
+ {
+  "order": 1294,
+  "trader": "Hung Pham Tuan",
+  "bank": "SHB",
+  "side": "bid",
+  "prices": [
+   82
+  ],
+  "volume": 2.0,
+  "text": "buy THái 2u 82 test"
+ },
+ {
+  "order": 1299,
+  "trader": "Thu Anh Nguyen",
+  "bank": "TPB",
+  "side": "bid",
+  "prices": [
+   82
+  ],
+  "volume": 4.0,
+  "text": "Buy a Q 82 4u if suit ạ"
+ },
+ {
+  "order": 1305,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "two_way",
+  "prices": [
+   82,
+   85
+  ],
+  "volume": null,
+  "text": "82/85"
+ },
+ {
+  "order": 1306,
+  "trader": "Thu Anh Nguyen",
+  "bank": "TPB",
+  "side": "bid",
+  "prices": [
+   83
+  ],
+  "volume": 4.0,
+  "text": "83 bid 4u cuối"
+ },
+ {
+  "order": 1311,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   82,
+   85
+  ],
+  "volume": null,
+  "text": "82/85"
+ },
+ {
+  "order": 1317,
+  "trader": "Truong Pham Xuan",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   82,
+   84
+  ],
+  "volume": null,
+  "text": "82 84"
+ },
+ {
+  "order": 1319,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   83
+  ],
+  "volume": null,
+  "text": "offer 83"
+ },
+ {
+  "order": 1321,
+  "trader": "Hung Pham Tuan",
+  "bank": "SHB",
+  "side": "bid",
+  "prices": [
+   81
+  ],
+  "volume": null,
+  "text": "81 bid"
+ },
+ {
+  "order": 1325,
+  "trader": "Nguyet Anh Phan",
+  "bank": "FUBON",
+  "side": "offer",
+  "prices": [
+   82
+  ],
+  "volume": 1.0,
+  "text": "offer 82 1u"
+ },
+ {
+  "order": 1327,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "bid",
+  "prices": [
+   81
+  ],
+  "volume": 1.0,
+  "text": "bid 81 1u"
+ },
+ {
+  "order": 1329,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   82
+  ],
+  "volume": null,
+  "text": "offer 82"
+ },
+ {
+  "order": 1330,
+  "trader": "Truong Pham Xuan",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   80,
+   82
+  ],
+  "volume": null,
+  "text": "80 82"
+ },
+ {
+  "order": 1333,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   78
+  ],
+  "volume": null,
+  "text": "bid 78"
+ },
+ {
+  "order": 1336,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "two_way",
+  "prices": [
+   80,
+   83
+  ],
+  "volume": null,
+  "text": "80 83"
+ },
+ {
+  "order": 1342,
+  "trader": "Hung Pham Tuan",
+  "bank": "SHB",
+  "side": "bid",
+  "prices": [
+   77
+  ],
+  "volume": null,
+  "text": "a bid 77 thôi Thái ơi"
+ },
+ {
+  "order": 1344,
+  "trader": "Truong Pham Xuan",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   80,
+   82
+  ],
+  "volume": null,
+  "text": "80 82"
+ },
+ {
+  "order": 1348,
+  "trader": "Truong Pham Xuan",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   79,
+   81
+  ],
+  "volume": null,
+  "text": "79 81"
+ },
+ {
+  "order": 1352,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   77
+  ],
+  "volume": null,
+  "text": "bid 77"
+ },
+ {
+  "order": 1353,
+  "trader": "Hung Pham Tuan",
+  "bank": "SHB",
+  "side": "bid",
+  "prices": [
+   79
+  ],
+  "volume": null,
+  "text": "buy Giang 79"
+ },
+ {
+  "order": 1361,
+  "trader": "Hung Nguyen Tien",
+  "bank": "CTG",
+  "side": "offer",
+  "prices": [
+   79
+  ],
+  "volume": 2.0,
+  "text": "79 offer 2u"
+ },
+ {
+  "order": 1365,
+  "trader": "Hung Pham Tuan",
+  "bank": "SHB",
+  "side": "bid",
+  "prices": [
+   79
+  ],
+  "volume": null,
+  "text": "buy Hưng em 79"
+ },
+ {
+  "order": 1373,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   81
+  ],
+  "volume": null,
+  "text": "offer 81"
+ },
+ {
+  "order": 1382,
+  "trader": "Hung Pham Tuan",
+  "bank": "SHB",
+  "side": "bid",
+  "prices": [
+   79
+  ],
+  "volume": 2.0,
+  "text": "buy a Trung 79 thêm 2u"
+ },
+ {
+  "order": 1383,
+  "trader": "Hung Nguyen Tien",
+  "bank": "CTG",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": 2.0,
+  "text": "80 offer 2u cuối"
+ },
+ {
+  "order": 1406,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   76,
+   79
+  ],
+  "volume": null,
+  "text": "76 79"
+ },
+ {
+  "order": 1413,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   77
+  ],
+  "volume": null,
+  "text": "bid 77"
+ },
+ {
+  "order": 1414,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   77
+  ],
+  "volume": null,
+  "text": "bid 77"
+ },
+ {
+  "order": 1415,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   79
+  ],
+  "volume": null,
+  "text": "offer 79"
+ },
+ {
+  "order": 1420,
+  "trader": "Hung Pham Tuan",
+  "bank": "SHB",
+  "side": "bid",
+  "prices": [
+   78
+  ],
+  "volume": 3.0,
+  "text": "78 bid 3u cuối"
+ },
+ {
+  "order": 1428,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   77
+  ],
+  "volume": null,
+  "text": "đấy chị bid 77"
+ },
+ {
+  "order": 1429,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   78
+  ],
+  "volume": null,
+  "text": "offer 78 hạ tiêu chuẩn"
+ },
+ {
+  "order": 1436,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   77
+  ],
+  "volume": null,
+  "text": "bid 77"
+ },
+ {
+  "order": 1438,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "offer 80"
+ },
+ {
+  "order": 1439,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   77
+  ],
+  "volume": null,
+  "text": "vẫn bid 77 kiên trì"
+ },
+ {
+  "order": 1441,
+  "trader": "Le Van Thien",
+  "bank": "SGB",
+  "side": "offer",
+  "prices": [
+   78
+  ],
+  "volume": null,
+  "text": "78 có vai u."
+ },
+ {
+  "order": 1448,
+  "trader": "Nguyen Duy Chuong",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   77
+  ],
+  "volume": 5.0,
+  "text": "bid 77 5u"
+ },
+ {
+  "order": 1449,
+  "trader": "Truong Pham Xuan",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   78,
+   79
+  ],
+  "volume": null,
+  "text": "78 79"
+ },
+ {
+  "order": 1455,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   77,
+   79
+  ],
+  "volume": null,
+  "text": "77 79"
+ },
+ {
+  "order": 1456,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   79
+  ],
+  "volume": null,
+  "text": "offer 79"
+ },
+ {
+  "order": 1463,
+  "trader": "Tram Nguyen Thi Mai",
+  "bank": "HDB",
+  "side": "two_way",
+  "prices": [
+   77,
+   78
+  ],
+  "volume": null,
+  "text": "77 78"
+ },
+ {
+  "order": 1471,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   78
+  ],
+  "volume": null,
+  "text": "offer 78"
+ },
+ {
+  "order": 1482,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   76
+  ],
+  "volume": null,
+  "text": "bid 76"
+ },
+ {
+  "order": 1493,
+  "trader": "Vu Minh Tan",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   75
+  ],
+  "volume": null,
+  "text": "bid 75"
+ },
+ {
+  "order": 1499,
+  "trader": "Nhan Tran Duc Van",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   75,
+   78
+  ],
+  "volume": null,
+  "text": "75 78"
+ },
+ {
+  "order": 1500,
+  "trader": "Duc Nguyen Tue",
+  "bank": "?",
+  "side": "bid",
+  "prices": [
+   76
+  ],
+  "volume": null,
+  "text": "bid 76"
+ },
+ {
+  "order": 1524,
+  "trader": "Tuan Dat Le",
+  "bank": "?",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "offer 80"
+ },
+ {
+  "order": 1537,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "two_way",
+  "prices": [
+   79,
+   82
+  ],
+  "volume": null,
+  "text": "79/82"
+ },
+ {
+  "order": 1546,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   80,
+   83
+  ],
+  "volume": null,
+  "text": "80 83"
+ },
+ {
+  "order": 1550,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "offer",
+  "prices": [
+   83
+  ],
+  "volume": null,
+  "text": "offer 83"
+ },
+ {
+  "order": 1565,
+  "trader": "Quang Huy Nguyen",
+  "bank": "OCB",
+  "side": "offer",
+  "prices": [
+   83
+  ],
+  "volume": null,
+  "text": "offer 83"
+ },
+ {
+  "order": 1568,
+  "trader": "Duc Nguyen Tue",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   81,
+   83
+  ],
+  "volume": null,
+  "text": "81 83"
+ },
+ {
+  "order": 1592,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   81
+  ],
+  "volume": null,
+  "text": "offer 81"
+ },
+ {
+  "order": 1598,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "offer 80"
+ },
+ {
+  "order": 1603,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "offer 80"
+ },
+ {
+  "order": 1604,
+  "trader": "Hung Nguyen Tien",
+  "bank": "CTG",
+  "side": "bid",
+  "prices": [
+   76
+  ],
+  "volume": 2.0,
+  "text": "bid 76 2u"
+ },
+ {
+  "order": 1605,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   80
+  ],
+  "volume": null,
+  "text": "offer 80"
+ },
+ {
+  "order": 1606,
+  "trader": "Le Van Thien",
+  "bank": "SGB",
+  "side": "offer",
+  "prices": [
+   82
+  ],
+  "volume": null,
+  "text": "Offer 82 hàng A Thái ạ."
+ },
+ {
+  "order": 1607,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   79
+  ],
+  "volume": null,
+  "text": "offer 79"
+ },
+ {
+  "order": 1609,
+  "trader": "Thanh Tai Nguyen",
+  "bank": "VBB",
+  "side": "bid",
+  "prices": [
+   76
+  ],
+  "volume": null,
+  "text": "bid 76"
+ },
+ {
+  "order": 1610,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   79
+  ],
+  "volume": null,
+  "text": "offer 79 cạnh tranh 😞"
+ },
+ {
+  "order": 1612,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   78
+  ],
+  "volume": null,
+  "text": "offer 78 lun"
+ },
+ {
+  "order": 1620,
+  "trader": "Le Van Thien",
+  "bank": "SGB",
+  "side": "offer",
+  "prices": [
+   78
+  ],
+  "volume": null,
+  "text": "offer 78 for 2."
+ },
+ {
+  "order": 1621,
+  "trader": "Tu Minh Trieu",
+  "bank": "CTG",
+  "side": "bid",
+  "prices": [
+   76
+  ],
+  "volume": null,
+  "text": "bid 76"
+ },
+ {
+  "order": 1625,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   77
+  ],
+  "volume": null,
+  "text": "offer 77"
+ },
+ {
+  "order": 1644,
+  "trader": "Vu Minh Tan",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   75
+  ],
+  "volume": null,
+  "text": "bid 75"
+ },
+ {
+  "order": 1661,
+  "trader": "Le Van Thien",
+  "bank": "SGB",
+  "side": "bid",
+  "prices": [
+   82
+  ],
+  "volume": null,
+  "text": "Hàng E mua 82 của A Thái đó ạ.🤣"
+ },
+ {
+  "order": 1662,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "bid",
+  "prices": [
+   77
+  ],
+  "volume": null,
+  "text": "a mua lại của em 77 rồi còn gì"
+ },
+ {
+  "order": 1664,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   77
+  ],
+  "volume": null,
+  "text": "offer lại 77 vậy"
+ },
+ {
+  "order": 1665,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   77
+  ],
+  "volume": null,
+  "text": "offer 77"
+ },
+ {
+  "order": 1667,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "two_way",
+  "prices": [
+   70,
+   77
+  ],
+  "volume": null,
+  "text": "70 77"
+ },
+ {
+  "order": 1670,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "bid",
+  "prices": [
+   72
+  ],
+  "volume": 2.0,
+  "text": "bid 72 2u này Then"
+ },
+ {
+  "order": 1672,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   75,
+   78
+  ],
+  "volume": null,
+  "text": "75/78 for 3"
+ },
+ {
+  "order": 1679,
+  "trader": "Phuc Pham Van",
+  "bank": "?",
+  "side": "two_way",
+  "prices": [
+   73,
+   78
+  ],
+  "volume": null,
+  "text": "73/78"
+ },
+ {
+  "order": 1683,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "two_way",
+  "prices": [
+   72,
+   75
+  ],
+  "volume": null,
+  "text": "72/75"
+ },
+ {
+  "order": 1685,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   73,
+   75
+  ],
+  "volume": null,
+  "text": "73 75"
+ },
+ {
+  "order": 1686,
+  "trader": "Nhan Tran Duc Van",
+  "bank": "VPB",
+  "side": "two_way",
+  "prices": [
+   70,
+   75
+  ],
+  "volume": null,
+  "text": "70 75"
+ },
+ {
+  "order": 1687,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "two_way",
+  "prices": [
+   70,
+   75
+  ],
+  "volume": null,
+  "text": "70 75"
+ },
+ {
+  "order": 1688,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   75
+  ],
+  "volume": null,
+  "text": "offer 75"
+ },
+ {
+  "order": 1691,
+  "trader": "Giang Trieu Thuy",
+  "bank": "MSB",
+  "side": "offer",
+  "prices": [
+   75
+  ],
+  "volume": null,
+  "text": "offer 75"
+ },
+ {
+  "order": 1692,
+  "trader": "Dang Ta Hai",
+  "bank": "VIB",
+  "side": "two_way",
+  "prices": [
+   72,
+   77
+  ],
+  "volume": null,
+  "text": "72 77"
+ },
+ {
+  "order": 1694,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   75
+  ],
+  "volume": null,
+  "text": "offer 75"
+ },
+ {
+  "order": 1695,
+  "trader": "Vu Minh Tan",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   71
+  ],
+  "volume": null,
+  "text": "bid 71"
+ },
+ {
+  "order": 1699,
+  "trader": "Giang Trieu Thuy",
+  "bank": "MSB",
+  "side": "two_way",
+  "prices": [
+   71,
+   73
+  ],
+  "volume": null,
+  "text": "71 73"
+ },
+ {
+  "order": 1701,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   73
+  ],
+  "volume": null,
+  "text": "offer 73"
+ },
+ {
+  "order": 1702,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "bid",
+  "prices": [
+   70
+  ],
+  "volume": null,
+  "text": "bid 70"
+ },
+ {
+  "order": 1703,
+  "trader": "Tuan Dat Le",
+  "bank": "?",
+  "side": "offer",
+  "prices": [
+   72
+  ],
+  "volume": 2.0,
+  "text": "offer 72 2u"
+ },
+ {
+  "order": 1705,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   71
+  ],
+  "volume": null,
+  "text": "offer 71"
+ },
+ {
+  "order": 1706,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "bid",
+  "prices": [
+   70
+  ],
+  "volume": null,
+  "text": "bid 70"
+ },
+ {
+  "order": 1713,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "bid",
+  "prices": [
+   68
+  ],
+  "volume": 5.0,
+  "text": "bid 68 5u"
+ },
+ {
+  "order": 1719,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "bid",
+  "prices": [
+   66
+  ],
+  "volume": 5.0,
+  "text": "bid 66 5u"
+ },
+ {
+  "order": 1721,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   70
+  ],
+  "volume": null,
+  "text": "offer 70"
+ },
+ {
+  "order": 1722,
+  "trader": "Dang Ta Hai",
+  "bank": "VIB",
+  "side": "bid",
+  "prices": [
+   66
+  ],
+  "volume": null,
+  "text": "e bid 66 a Thái nhé :p"
+ },
+ {
+  "order": 1726,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "offer",
+  "prices": [
+   68
+  ],
+  "volume": null,
+  "text": "offer 68"
+ },
+ {
+  "order": 1729,
+  "trader": "Dang Ta Hai",
+  "bank": "VIB",
+  "side": "bid",
+  "prices": [
+   63
+  ],
+  "volume": null,
+  "text": "bid 63 thôi nhé Mon 😞"
+ },
+ {
+  "order": 1737,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "bid",
+  "prices": [
+   61
+  ],
+  "volume": null,
+  "text": "bid 61"
+ },
+ {
+  "order": 1738,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   66
+  ],
+  "volume": null,
+  "text": "offer 66"
+ },
+ {
+  "order": 1739,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   63
+  ],
+  "volume": null,
+  "text": "bid 63 anh ơi"
+ },
+ {
+  "order": 1741,
+  "trader": "Vu Thi Thu Hoai",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   86
+  ],
+  "volume": null,
+  "text": "đấy, lúc em bid 86 em đã bảo rồi"
+ },
+ {
+  "order": 1751,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "bid",
+  "prices": [
+   61
+  ],
+  "volume": 5.0,
+  "text": "bid 61 for 5u"
+ },
+ {
+  "order": 1752,
+  "trader": "Hau Tt",
+  "bank": "VIKKI",
+  "side": "offer",
+  "prices": [
+   65
+  ],
+  "volume": null,
+  "text": "offer 65"
+ },
+ {
+  "order": 1754,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "bid",
+  "prices": [
+   62
+  ],
+  "volume": 1.0,
+  "text": "bid 62 1u"
+ },
+ {
+  "order": 1767,
+  "trader": "Le Van Thien",
+  "bank": "SGB",
+  "side": "offer",
+  "prices": [
+   63
+  ],
+  "volume": null,
+  "text": "offer 63"
+ },
+ {
+  "order": 1769,
+  "trader": "Dang Ta Hai",
+  "bank": "VIB",
+  "side": "bid",
+  "prices": [
+   61
+  ],
+  "volume": 1.6,
+  "text": "bid 61 1.6u nhé Thin"
+ },
+ {
+  "order": 1775,
+  "trader": "Thanh Thai Nguyen",
+  "bank": "VIB",
+  "side": "offer",
+  "prices": [
+   62
+  ],
+  "volume": null,
+  "text": "offer 62"
+ },
+ {
+  "order": 1776,
+  "trader": "Le Van Thien",
+  "bank": "SGB",
+  "side": "two_way",
+  "prices": [
+   61
+  ],
+  "volume": null,
+  "text": "Đăng còn mua 61 ko Tui sell."
+ },
+ {
+  "order": 1785,
+  "trader": "Vu Minh Tan",
+  "bank": "BAB",
+  "side": "bid",
+  "prices": [
+   55
+  ],
+  "volume": 5.0,
+  "text": "bid 55 5 u Thiên ơi"
+ },
+ {
+  "order": 1786,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "bid",
+  "prices": [
+   58
+  ],
+  "volume": null,
+  "text": "bid 58"
+ },
+ {
+  "order": 1797,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "bid",
+  "prices": [
+   50
+  ],
+  "volume": null,
+  "text": "bid 50"
+ },
+ {
+  "order": 1798,
+  "trader": "Hoang Duc Dat",
+  "bank": "TCB",
+  "side": "bid",
+  "prices": [
+   50
+  ],
+  "volume": null,
+  "text": "bid 50"
+ },
+ {
+  "order": 1799,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "bid",
+  "prices": [
+   53
+  ],
+  "volume": null,
+  "text": "bid 53"
+ },
+ {
+  "order": 1800,
+  "trader": "Tu Minh Trieu",
+  "bank": "CTG",
+  "side": "bid",
+  "prices": [
+   54
+  ],
+  "volume": null,
+  "text": "bid 54"
+ },
+ {
+  "order": 1801,
+  "trader": "Thai Duc",
+  "bank": "VPB",
+  "side": "bid",
+  "prices": [
+   55
+  ],
+  "volume": 3.0,
+  "text": "bid 55 3u"
+ },
+ {
+  "order": 1803,
+  "trader": "Thu Anh Nguyen",
+  "bank": "TPB",
+  "side": "offer",
+  "prices": [
+   55
+  ],
+  "volume": null,
+  "text": "sell 55 test"
+ },
+ {
+  "order": 1807,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "bid",
+  "prices": [
+   53
+  ],
+  "volume": null,
+  "text": "bid 53"
+ },
+ {
+  "order": 1808,
+  "trader": "Tu Minh Trieu",
+  "bank": "CTG",
+  "side": "bid",
+  "prices": [
+   55
+  ],
+  "volume": null,
+  "text": "bid 55"
+ },
+ {
+  "order": 1809,
+  "trader": "Ba Tuan Nguyen",
+  "bank": "KLB",
+  "side": "bid",
+  "prices": [
+   53
+  ],
+  "volume": null,
+  "text": "bid 53"
+ },
+ {
+  "order": 1810,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "bid",
+  "prices": [
+   54
+  ],
+  "volume": null,
+  "text": "bid 54"
+ },
+ {
+  "order": 1815,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "bid",
+  "prices": [
+   54
+  ],
+  "volume": null,
+  "text": "bid 54"
+ },
+ {
+  "order": 1816,
+  "trader": "Hoang Nhat Minh",
+  "bank": "BIDV",
+  "side": "bid",
+  "prices": [
+   54
+  ],
+  "volume": null,
+  "text": "bid 54"
+ },
+ {
+  "order": 1820,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "bid",
+  "prices": [
+   55
+  ],
+  "volume": 3.0,
+  "text": "bid 55 3u"
+ },
+ {
+  "order": 1822,
+  "trader": "Dat Le Tat",
+  "bank": "PVCB",
+  "side": "bid",
+  "prices": [
+   57
+  ],
+  "volume": null,
+  "text": "bid 57"
+ }
+]

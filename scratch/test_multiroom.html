@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head><title>Refinitiv Messenger Test</title></head>
+<body>
+  <!-- Sidebar -->
+  <div class="sidebar" style="width: 250px; float: left;">
+    <div class="channel-item"><span class="ChatroomName">FX Swap - MSB VBMA</span></div>
+    <div class="channel-item selected" aria-selected="true"><span class="ChatroomName">FXVN</span></div>
+  </div>
+
+  <!-- Chat Pane -->
+  <div class="chat-pane" style="margin-left: 260px;">
+    <div class="conversation-header">
+      <span class="ChatroomName">FXVN</span>
+      <span class="participants">251 Participants</span>
+    </div>
+    <div id="conversation-container">
+      <div class="incoming-message" data-message-id="msg-test-1" data-sender-name="Nguyet Anh Phan" data-company="Taipei Fubon" data-timestamp="11:05:37" data-date="5/9/2026">
+        <div data-testid="parsed-raw-message">tks bạn iu</div>
+      </div>
+    </div>
+  </div>
+  <script src="../extension/config.js"></script>
+  <script src="../extension/content.js"></script>
+  <script>
+    setTimeout(() => {
+      window.close();
+    }, 1500);
+  </script>
+</body>
+</html>
