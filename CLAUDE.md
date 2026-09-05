@@ -28,7 +28,7 @@ python scratch\run_test_multiroom.py
 python scratch\run_debug.py
 ```
 
-Paths to files inside the repo are resolved relative to the script's own location, so these run from a fresh clone anywhere. They still hardcode the Chrome binary path (`C:\Program Files\Google\Chrome\Application\chrome.exe`), so they are Windows-only as written. `scratch/check_syntax.py` and `scratch/bundle_code.py` still hardcode the stale absolute repo path `C:\Users\HOANG MINH\Desktop\fx-collector\...` — fix those before relying on them.
+Every script in `scratch/` resolves paths to files inside the repo relative to its own location, so they all run from a fresh clone anywhere. The Chrome-driven ones above plus `check_syntax.py` still hardcode the Chrome binary path (`C:\Program Files\Google\Chrome\Application\chrome.exe`), so those are Windows-only as written; `bundle_code.py` and `run_test_parser.py` need no browser and run anywhere.
 
 ## Architecture / data flow
 

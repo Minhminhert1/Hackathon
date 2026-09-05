@@ -10,7 +10,8 @@ html = """<!DOCTYPE html>
 </body>
 </html>"""
 
-scratch_dir = r"C:\Users\HOANG MINH\Desktop\fx-collector\scratch"
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+scratch_dir = os.path.join(REPO_ROOT, "scratch")
 html_path = os.path.join(scratch_dir, "test_page.html")
 with open(html_path, "w", encoding="utf-8") as f:
     f.write(html)
